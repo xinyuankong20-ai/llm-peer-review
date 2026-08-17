@@ -1,0 +1,22 @@
+ID,Title,First Author,Venue
+1,Adaptive Quantization Error Reconstruction for LLMs with Mixed Precision,Lin Ou,COLM 2024
+2,Multi-FAct: Assessing Factuality of Multilingual LLMs using FActScore,Sheikh Shafayat,COLM 2024
+3,CoCA: Regaining Safety-awareness of Multimodal LLMs with Constitutional Calibration,Jiahui Gao,COLM 2024
+4,TPD: Enhancing Student Language Model Reasoning via Principle Discovery and Guidance,Haorui Wang,COLM 2024
+5,LLMEmbed: Rethinking Lightweight LLM's Genuine Function in Text Classification,Chun Liu,ACL 2024
+6,Triad: A Framework Leveraging a Multi-Role LLM-based Agent to Solve KBQA,Chang Zong,EMNLP 2024
+7,Calibrating the Confidence of Large Language Models by Eliciting Fidelity,Mozhi Zhang,EMNLP 2024
+8,A Generic Method for Fine-grained Category Discovery in Natural Language Texts,Chang Tian,EMNLP 2024
+9,An Empirical Study of Multilingual Reasoning Distillation for Question Answering,Patomporn P.,EMNLP 2024
+10,Exploring Nested Named Entity Recognition with Large Language Models,Hongjin Kim,EMNLP 2024
+11,Learning to Correct for QA Reasoning with Black-box LLMs,Jaehyung Kim,EMNLP 2024
+12,Incremental Sequence Labeling: A Tale of Two Shifts,Shengjie Qiu,ACL 2024 Findings
+13,ConTempo: A Unified Temporally Contrastive Framework for Temporal Relation Extraction,Jingcheng Niu,ACL 2024 Findings
+14,Self-Adaptive Sampling for Efficient Video Question Answering on Image-Text Models,Wei Han,NAACL 2024 Findings
+15,Language Models for Text Classification: Is In-Context Learning Enough?,Aleksandra Edwards,LREC-COLING 2024
+16,SELF-RAG: Learning to Retrieve Generate and Critique through Self-Reflection,Akari Asai,ICLR 2024
+17,SWE-bench: Can Language Models Resolve Real-World GitHub Issues?,Carlos E. Jimenez,ICLR 2024
+18,Phenomenal Yet Puzzling: Testing Inductive Reasoning Capabilities of Language Models,Linlu Qiu,ICLR 2024
+19,LoftQ: LoRA-Fine-Tuning-Aware Quantization for Large Language Models,Yixiao Li,ICLR 2024
+20,Fine-Tuning Aligned Language Models Compromises Safety Even When Users Do Not Intend To!,Xiangyu Qi,ICLR 2024
+21,From RAG to RICHES: Retrieval Interlaced with Sequence Generation,Palak Jain,EMNLP 2024
